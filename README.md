@@ -1,4 +1,4 @@
-# Late-delivery-classification-using-ANN
+# Analyzing and Forecasting Product Demand for Strategic Inventory Management
 Analyzing and Forecasting Product Demand for Strategic Inventory Management
 
 This research focuses on improving inventory management through precise demand forecasting and anomaly identification. 
